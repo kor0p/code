@@ -4,5 +4,8 @@
   },
   "@jupyterlab/translation-extension:plugin":  {
     "locale": "uk_UA"
+  },
+  "jupyterlab-google-analytics:plugin": {
+    "trackingId": "G-8ESMET2M0H"
   }
 }
